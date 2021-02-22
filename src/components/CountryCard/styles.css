@@ -1,0 +1,34 @@
+.country-card {
+  width: 120px;
+  background-color: #dddbf3;
+  padding: 8px;
+  border-radius: 6px;
+  margin: 0 6px 12px 6px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.country-card:hover {
+  background-color: #e4e4e4;
+}
+
+.country-card-title {
+  text-align: center;
+  margin: 0 0 6px 0;
+  color: #353232;
+  padding: 4px;
+  text-transform: uppercase;
+}
+
+.country-card-content {
+  display: flex;
+}
+
+.country-card-flag {
+  height: 74px;
+  max-width: 111px;
+  margin-right: 12px;
+  margin: auto;
+}

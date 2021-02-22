@@ -1,0 +1,20 @@
+.info-content {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 4px;
+}
+
+.info-content-label {
+  font-weight: bold;
+  margin: 0;
+  font-size: 14px;
+  color: #2d3039;
+  text-align: center;
+}
+
+.info-content-text {
+  margin: 0;
+  font-size: 14px;
+  color: #2d3039;
+  text-align: center;
+}
